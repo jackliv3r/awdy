@@ -1,0 +1,14 @@
+name : Decred
+symbol : DCR
+url: https://www.decred.org/
+consensus: PoW/PoS
+incentivized: Y
+consensus_distribution: solo miners
+consensus_distribution_source: https://dcrstats.com/pow
+wealth_distribution: 34%
+wealth_distribution_source: https://dcr.observer/#home
+client_codebases: 1
+client_codebases_source: https://charts.dcr.farm/d/000000014/nodes?orgId=1
+public_nodes: 722
+public_nodes_source: https://charts.dcr.farm/d/000000015/nodes-map?refresh=5m&orgId=1
+notes : Decred uses an innovative hybrid PoW/PoS system to gives users of the currency decision-making power about the set of consensus rules to activate
