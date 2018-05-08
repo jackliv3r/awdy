@@ -11,4 +11,4 @@ client_codebases: 1
 client_codebases_source: https://charts.dcr.farm/d/000000014/nodes?orgId=1
 public_nodes: 722
 public_nodes_source: https://charts.dcr.farm/d/000000015/nodes-map?refresh=5m&orgId=1
-notes : Decred uses an innovative hybrid PoW/PoS system to gives users of the currency decision-making power about the set of consensus rules to activate
+notes : Decred uses an innovative hybrid PoW/PoS system to give users of the currency decision-making power about the set of consensus rules to activate
